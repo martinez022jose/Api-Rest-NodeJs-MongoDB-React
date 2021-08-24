@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Iron Man",
+        "year": 1998,
+        "rating": 10
+    },
+    {
+        "id": 2,
+        "title": "Hulk",
+        "year": 1998,
+        "rating": 6
+    }
+]
